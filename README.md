@@ -37,7 +37,9 @@ Knowing this, competitors should be making explicit final submission selections 
 
 ## File Descriptions
 train_v2.csv - the updated training set - contains user transactions from August 1st 2016 to April 30th 2018.
+
 test_v2.csv - the updated test set - contains user transactions from May 1st 2018 to October 15th 2018.
+
 sample_submission_v2.csv - a updated sample submission file in the correct format. Contains all fullVisitorIds in test_v2.csv. Your submission's PredictedLogRevenue column should make forward-looking predictions for each of these fullVisitorIds for the timeframe of December 1st 2018 to January 31st 2019. Review "What am I predicting?" above for details.
 
 ## Data Fields
