@@ -5,8 +5,10 @@ The 80/20 rule has proven true for many businesses–only a small percentage of 
 
 In this competition, you’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer. Hopefully, the outcome will be more actionable operational changes and a better use of marketing budgets for those companies who choose to use data analysis on top of GA data.
 
-## Important Note
-We have now updated the data to work with the new forward-looking problem formulation. Note that in this competition you will be predicting the target for ALL users in the posted test set: test_v2.csv, for their transactions in the future time period of December 1st 2018 through January 31st 2019.
+### Important Note
+We have now updated the data to work with the new forward-looking problem formulation. 
+
+Note that in this competition you will be predicting the target for ALL users in the posted test set: test_v2.csv, for their transactions in the future time period of December 1st 2018 through January 31st 2019.
 
 ## What files do I need?
 You will need to download train_v2.csv and test_v2.csv. These contain the data necessary to make predictions for each fullVisitorId listed in sample_submission_v2.csv.
