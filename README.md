@@ -75,5 +75,3 @@ totals - This set of columns mostly includes high-level aggregate data.
 
 ## External Data
 External data is permitted for this competition, per this forum post. This includes the Google Merchandise Store Demo Account. Although the Demo Account contains the predicted variable, final standings will not benefit from access to this external data, because it requires future-looking predictions.
-
-{% gist 9aaf5bf07b42e0d1999d0afaa361fb83 %}
